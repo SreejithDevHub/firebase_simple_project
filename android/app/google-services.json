@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660371978761",
+    "project_id": "sree-9dd54",
+    "storage_bucket": "sree-9dd54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660371978761:android:b9370de8fb6379a9a2d6d8",
+        "android_client_info": {
+          "package_name": "com.example.sree"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASDwhj1l_fWSFVj6J2Jy31IfhuOqxQtcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
